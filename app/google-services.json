@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "76813939521",
+    "firebase_url": "https://blendr-3c53f-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "blendr-3c53f",
+    "storage_bucket": "blendr-3c53f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:76813939521:android:e3c7383e57b484848ea7c0",
+        "android_client_info": {
+          "package_name": "com.project.suhail.blendr"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "76813939521-vca6ta6b6m179dvf9e4fdrg3q7c124ia.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.project.suhail.blendr",
+            "certificate_hash": "7f895dda946695ef603fbfa2685a72c994c975cf"
+          }
+        },
+        {
+          "client_id": "76813939521-eqf6r8aqa8rn4nd6urnu6n0pd1ejbo4t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBlq9ikxGhBL4hu4ErNGVKOrZ5bpS6I5IE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "76813939521-eqf6r8aqa8rn4nd6urnu6n0pd1ejbo4t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
